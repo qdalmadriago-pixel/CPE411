@@ -12,44 +12,44 @@
 
 <p align="center" style="margin-top:6px;">
   <span style="display:inline-block;padding:6px 12px;border-radius:6px;background:#0f1724;color:#94a3b8;font-size:12px;letter-spacing:1px;">AGE</span>
-  <span style="display:inline-block;margin-left:8px;padding:8px 12px;border-radius:6px;background:linear-gradient(90deg,#06B6D4,#0369A1);color:#012028;font-weight:700;">19</span>
+  <span style="display:inline-block;margin-left:8px;padding:8px 12px;border-radius:6px;background:linear-gradient(90deg,#06B6D4,#0369A1);color:#012028;font-weight:700;">19 🎂</span>
 </p>
 
 <p align="center" style="margin-top:8px;">
   <span style="display:inline-block;padding:6px 12px;border-radius:6px;background:#0f1724;color:#94a3b8;font-size:12px;letter-spacing:1px;">LOCATION</span>
-  <span style="display:inline-block;margin-left:8px;padding:8px 12px;border-radius:6px;background:#0369A1;color:#e6f6fb;font-weight:700;">Quezon City</span>
+  <span style="display:inline-block;margin-left:8px;padding:8px 12px;border-radius:6px;background:#0369A1;color:#e6f6fb;font-weight:700;">Quezon City 📍</span>
 </p>
 
 ---
 
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Status</h3>
-<p style="color:#0b7285;font-family:'Segoe UI',Tahoma,serif;">Tipian Student — 2nd year BSCPE</p>
+<p style="color:#0b7285;font-family:'Segoe UI',Tahoma,serif;">Tipian Student — 2nd year BSCPE 🎓</p>
 
 ---
 
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Skills</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0369A1" alt="python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=06B6D4" alt="cpp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0369A1" alt="python" /> 🐍
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=06B6D4" alt="cpp" /> ⚙️
 </p>
 
 ---
 
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Currently learning</h3>
 <ul style="color:#094E6B; list-style:none; padding-left:0; font-family:'Segoe UI', Tahoma, sans-serif;">
-  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Software Programming</li>
-  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Databases</li>
-  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Data Structures</li>
-  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• C Programming</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">📚 Software Programming</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">🗄️ Databases</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">🧩 Data Structures</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">🔢 C Programming</li>
 </ul>
 
 ---
 
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Hobbies</h3>
 <ul style="color:#094E6B; list-style:none; padding-left:0; font-family:'Segoe UI', Tahoma, sans-serif;">
-  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Eating</li>
-  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Gaming</li>
-  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Sleeping</li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">🍔 Eating</li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">🎮 Gaming</li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">😴 Sleeping</li>
 </ul>
 
 ---
