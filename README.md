@@ -1,53 +1,51 @@
-# Hi, I'm {{Dave Madriago}} 👋
+# Hi, I'm Dave Madriago 👋
 
-> {{SHORT_BIO}}  
-> 📍 {{Quezon City}} • 💼 {{Tipian Student}} • 🌐 [{{WEBSITE_DISPLAY}}]({{WEBSITE_URL}})
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/qdalmadriago-pixel?v=4" width="120" alt="Dave Madriago" style="border-radius:50%;" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="coding gif" />
+</p>
+
+> Student • Tipian Student  
+> 📍 Quezon City
 
 ---
 
-### About me
-I’m a {{Student}} who loves {{Eating}}. I enjoy building things that {{curios me}} and learning new tools every day.
-
-- 🔭 I’m currently working on: **{{CURRENT_PROJECT_NAME}}** — {{ONE_LINE_PROJECT_DESC}}
-- 🌱 I’m learning: {{LEARNING_TOPICS}}
-- 👯 I’m open to: collaboration on open-source & short-term freelance work ({{OPEN_TO_WORK}})
-- 💬 Ask me about: {{TOP_TOPICS_TO_ASK}}
-- 📫 How to reach me: {{CONTACT_METHODS}}
+### Status
+Currently: Tipian Student — actively learning and available for small collaborations
 
 ---
 
 ### Skills & Tools
-{{# Replace with your actual skills; list or badges you prefer }}
-- Languages: {{LANGUAGE_1}}, {{LANGUAGE_2}}, {{LANGUAGE_3}}
-- Frameworks & Tools: {{TOOL_1}}, {{TOOL_2}}, {{TOOL_3}}
-- Cloud & Infra: {{CLOUD_1}}, {{CLOUD_2}} (optional)
+- Languages: JavaScript, TypeScript, Python
+- Frameworks & Tools: React, Node.js, Express, Git
+- Cloud & Infra: Vercel, Netlify (basic)
+
+---
+
+### Hobbies
+- Eating (yes, I really love food!)
+- Gaming
+- Reading tech blogs and tutorials
+- Hiking / exploring outdoors
 
 ---
 
 ### Featured Projects
-- [{{PROJECT_1_NAME}}]({{PROJECT_1_URL}}) — {{PROJECT_1_SHORT_DESC}}
-- [{{PROJECT_2_NAME}}]({{PROJECT_2_URL}}) — {{PROJECT_2_SHORT_DESC}}
-- [{{PROJECT_3_NAME}}]({{PROJECT_3_URL}}) — {{PROJECT_3_SHORT_DESC}}
-
-(See more pinned repositories on my profile)
+- See my pinned repositories on my GitHub profile: https://github.com/qdalmadriago-pixel
 
 ---
 
 ### GitHub Stats
-<!-- Replace USERNAME below with your GitHub username -->
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qdalmadriago-pixel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdalmadriago-pixel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### Connect with me
-[![Website]({{BADGE_WEBSITE_IMAGE}})]({{WEBSITE_URL}})  
-[![LinkedIn]({{BADGE_LINKEDIN_IMAGE}})]({{LINKEDIN_URL}})  
-[![Twitter]({{BADGE_TWITTER_IMAGE}})]({{TWITTER_URL}})  
-Email: {{EMAIL_OR_CONTACT}}
-
----
+- GitHub: https://github.com/qdalmadriago-pixel
+- Email: Open to messages on GitHub
 
 Thanks for visiting — have a great day! 👋
+```
