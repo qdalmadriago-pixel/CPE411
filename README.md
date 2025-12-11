@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/qdalmadriago-pixel?v=4" width="120" alt="Dave Madriago" style="border-radius:50%;" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="coding gif" />
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="220" alt="meme gif" />
 </p>
 
 > Student • Tipian Student  
@@ -23,15 +23,9 @@ Currently: Tipian Student — actively learning and available for small collabor
 ---
 
 ### Hobbies
-- Eating (yes, I really love food!)
-- Gaming
-- Reading tech blogs and tutorials
-- Hiking / exploring outdoors
-
----
-
-### Featured Projects
-- See my pinned repositories on my GitHub profile: https://github.com/qdalmadriago-pixel
+- Eating
+- Sleeping
+- Games
 
 ---
 
@@ -43,9 +37,4 @@ Currently: Tipian Student — actively learning and available for small collabor
 
 ---
 
-### Connect with me
-- GitHub: https://github.com/qdalmadriago-pixel
-- Email: Open to messages on GitHub
-
 Thanks for visiting — have a great day! 👋
-```
