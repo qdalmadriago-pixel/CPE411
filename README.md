@@ -1,8 +1,8 @@
 # <p align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif; font-weight:800; letter-spacing:1px; color:#0369A1;">Hi, I'm Dave Madriago 👋</p>
 
 <p align="center">
-  <!-- Gradient border container to make the profile "stand up" -->
-  <span style="display:inline-block;padding:6px;border-radius:50%;background:linear-gradient(135deg,#06B6D4,#0369A1);">
+  <!-- Gradient border container plus subtle outer border line for the profile picture -->
+  <span style="display:inline-block;padding:6px;border-radius:50%;background:linear-gradient(135deg,#06B6D4,#0369A1); border:2px solid rgba(3,105,161,0.12);">
     <img src="https://avatars.githubusercontent.com/qdalmadriago-pixel?v=4" width="220" alt="Dave Madriago" style="display:block;border-radius:50%;background:#ffffff;padding:6px;transform: translateY(-8px);" />
   </span>
   &nbsp;&nbsp;
@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Tipian%20Student-06B6D4?style=for-the-badge&logo=student" alt="status" />
+  <img src="https://img.shields.io/badge/Status-Tipian%20Student%20%E2%80%94%202nd%20year-06B6D4?style=for-the-badge&logo=student" alt="status" />
   <img src="https://img.shields.io/badge/Location-Quezon%20City-0369A1?style=for-the-badge&logo=map" alt="location" />
 </p>
 
 ---
 
 <h3 style="color:#0369A1;">Status</h3>
-<p style="color:#0b7285;">Currently: <strong style="color:#06B6D4;">Tipian Student</strong> — actively learning and open for small collaborations.</p>
+<p style="color:#0b7285;">Currently: <strong style="color:#06B6D4;">Tipian Student — 2nd year</strong> — actively learning and open for small collaborations.</p>
 
 ---
 
@@ -32,16 +32,16 @@
 
 <h3 style="color:#0369A1;">Hobbies</h3>
 <ul style="color:#094E6B; list-style:none; padding-left:0;">
-  <li style="margin:8px 0;">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="28" alt="eating gif" style="vertical-align:middle; margin-right:8px;" />
+  <li style="margin:10px 0; display:flex; align-items:center;">
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="48" alt="eating gif" style="vertical-align:middle; margin-right:12px; border-radius:6px;" />
     <strong style="color:#06B6D4;">Eating</strong>
   </li>
-  <li style="margin:8px 0;">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28" alt="sleeping gif" style="vertical-align:middle; margin-right:8px;" />
+  <li style="margin:10px 0; display:flex; align-items:center;">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="48" alt="sleeping gif" style="vertical-align:middle; margin-right:12px; border-radius:6px;" />
     <strong style="color:#06B6D4;">Sleeping</strong>
   </li>
-  <li style="margin:8px 0;">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="28" alt="games gif" style="vertical-align:middle; margin-right:8px;" />
+  <li style="margin:10px 0; display:flex; align-items:center;">
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="48" alt="games gif" style="vertical-align:middle; margin-right:12px; border-radius:6px;" />
     <strong style="color:#06B6D4;">Games</strong>
   </li>
 </ul>
