@@ -23,7 +23,7 @@
 ---
 
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Status</h3>
-<p style="color:#0b7285;font-family:'Segoe UI',Tahoma,serif;">Tipian Student — 2nd year</p>
+<p style="color:#0b7285;font-family:'Segoe UI',Tahoma,serif;">Tipian Student — 2nd year BSCPE</p>
 
 ---
 
@@ -38,17 +38,14 @@
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Hobbies</h3>
 <ul style="color:#094E6B; list-style:none; padding-left:0; font-family:'Segoe UI', Tahoma, sans-serif;">
   <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="72" alt="eating gif" style="border-radius:8px; box-shadow:0 6px 14px rgba(3,105,161,0.08);" />
     <span style="color:#06B6D4; font-weight:700; font-size:16px;">Eating</span>
   </li>
 
   <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="72" alt="gaming gif" style="border-radius:8px; box-shadow:0 6px 14px rgba(3,105,161,0.08);" />
     <span style="color:#06B6D4; font-weight:700; font-size:16px;">Gaming</span>
   </li>
 
   <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="72" alt="sleeping gif" style="border-radius:8px; box-shadow:0 6px 14px rgba(3,105,161,0.08);" />
     <span style="color:#06B6D4; font-weight:700; font-size:16px;">Sleeping</span>
   </li>
 </ul>
