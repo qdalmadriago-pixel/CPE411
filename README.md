@@ -35,19 +35,21 @@
 
 ---
 
+<h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Currently learning</h3>
+<ul style="color:#094E6B; list-style:none; padding-left:0; font-family:'Segoe UI', Tahoma, sans-serif;">
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Software Programming</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Databases</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• Data Structures</li>
+  <li style="margin:8px 0; color:#06B6D4; font-weight:700;">• C Programming</li>
+</ul>
+
+---
+
 <h3 style="color:#0369A1;font-family:'Poppins',sans-serif;">Hobbies</h3>
 <ul style="color:#094E6B; list-style:none; padding-left:0; font-family:'Segoe UI', Tahoma, sans-serif;">
-  <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <span style="color:#06B6D4; font-weight:700; font-size:16px;">Eating</span>
-  </li>
-
-  <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <span style="color:#06B6D4; font-weight:700; font-size:16px;">Gaming</span>
-  </li>
-
-  <li style="margin:12px 0; display:flex; align-items:center; gap:12px; max-width:360px;">
-    <span style="color:#06B6D4; font-weight:700; font-size:16px;">Sleeping</span>
-  </li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Eating</li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Gaming</li>
+  <li style="margin:12px 0; color:#06B6D4; font-weight:700; font-size:16px;">Sleeping</li>
 </ul>
 
 ---
