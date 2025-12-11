@@ -1,12 +1,12 @@
-# Hi, I'm {{FULL_NAME}} 👋
+# Hi, I'm {{Dave Madriago}} 👋
 
 > {{SHORT_BIO}}  
-> 📍 {{LOCATION}} • 💼 {{JOB_TITLE_OR_STATUS}} • 🌐 [{{WEBSITE_DISPLAY}}]({{WEBSITE_URL}})
+> 📍 {{Quezon City}} • 💼 {{Tipian Student}} • 🌐 [{{WEBSITE_DISPLAY}}]({{WEBSITE_URL}})
 
 ---
 
 ### About me
-I’m a {{ROLE}} who loves {{PRIMARY_INTERESTS}}. I enjoy building things that {{WHAT_YOU_BUILD_OR_GOAL}} and learning new tools every day.
+I’m a {{Student}} who loves {{Eating}}. I enjoy building things that {{curios me}} and learning new tools every day.
 
 - 🔭 I’m currently working on: **{{CURRENT_PROJECT_NAME}}** — {{ONE_LINE_PROJECT_DESC}}
 - 🌱 I’m learning: {{LEARNING_TOPICS}}
