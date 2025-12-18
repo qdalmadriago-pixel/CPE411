@@ -3,22 +3,38 @@
   <!-- Dominant Welcome Message -->
   <span 
     style="
-      display: inline-block;
+      display: block;
       font-family: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
       font-weight: 900;
-      font-size: 64px; /* Increased size for dominance */
-      letter-spacing: 4px;
+      font-size: 96px; /* Very large text for dominance */
+      letter-spacing: 6px;
       color: #012028;
+      text-align: center;
       text-transform: uppercase;
       background: linear-gradient(90deg, #06B6D4, #0369A1);
       -webkit-background-clip: text;
       color: transparent;
-      text-shadow: 0 2px 4px rgba(3,105,161,0.4);
+      text-shadow: 0 4px 8px rgba(3,105,161,0.4);
+      margin: 40px 0;
     ">
-    ✨ Welcome to My Profile! ✨
+    🙌 Welcome to My Profile! 🙌
   </span>
 
+  <!-- Centered Hi GIF -->
+  <img
+    src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"
+    width="200"
+    alt="Hi GIF"
+    style="
+      border-radius: 16px; 
+      box-shadow: 0 8px 20px rgba(3,105,161,0.12);
+      display: block; 
+      margin: 20px auto;
+    "
+  />
+
 </p>
+
 
 <p align="center">
   <!-- Avatar with cyan-blue gradient ring and thin border -->
@@ -30,16 +46,6 @@
       style="display:block; border-radius:50%; background:#ffffff; padding:6px;"
     />
   </span>
-
-  <br /><br />
-
-  <!-- Hi GIF -->
-  <img
-    src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif"
-    width="160"
-    alt="Hi GIF"
-    style="border-radius:12px; box-shadow:0 8px 20px rgba(3,105,161,0.12);"
-  />
 </p>
 
 <p align="center" style="margin-top:6px;">
