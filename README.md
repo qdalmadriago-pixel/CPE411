@@ -6,7 +6,7 @@
       display: inline-block;
       font-family: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
       font-weight: 900;
-      font-size: 48px;
+      font-size: 64px; /* Increased size for dominance */
       letter-spacing: 4px;
       color: #012028;
       text-transform: uppercase;
@@ -14,31 +14,9 @@
       -webkit-background-clip: text;
       color: transparent;
       text-shadow: 0 2px 4px rgba(3,105,161,0.4);
-      animation: glow 3s ease-in-out infinite, fadeIn 2s ease;
     ">
     ✨ Welcome to My Profile! ✨
   </span>
-
-  <style>
-    @keyframes glow {
-      0%, 100% {
-        text-shadow: 0 0 8px #06B6D4, 0 0 12px #0369A1, 0 0 16px #06B6D4;
-      }
-      50% {
-        text-shadow: 0 0 12px #06B6D4, 0 0 20px #0369A1, 0 0 24px #06B6D4;
-      }
-    }
-    @keyframes fadeIn {
-      0% {
-        opacity: 0; 
-        transform: scale(0.8);
-      }
-      100% {
-        opacity: 1; 
-        transform: scale(1);
-      }
-    }
-  </style>
 
 </p>
 
