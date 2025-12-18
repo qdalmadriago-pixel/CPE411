@@ -3,7 +3,26 @@
 </p>
 
 <p align="center">
-  <!-- Avatar with cyan-blue gradient ring and thin border -->
+  <!-- Welcome to My Profile -->
+  <span style="display:inline-block; font-family:'Poppins','Segoe UI',Tahoma,sans-serif; font-weight:900; font-size:32px; letter-spacing:2px; background:linear-gradient(90deg,#06B6D4,#0369A1); -webkit-background-clip:text; color:transparent; animation: fadeIn 3s ease;">
+    🙌 Welcome to My Profile! 🙌
+  </span>
+  <style>
+    @keyframes fadeIn {
+      0% {
+        opacity: 0; 
+        transform: translateY(-10px);
+      }
+      100% {
+        opacity: 1; 
+        transform: translateY(0);
+      }
+    }
+  </style>
+</p>
+
+<!-- Avatar with cyan-blue gradient ring and thin border -->
+<p align="center">
   <span style="display:inline-block; padding:6px; border-radius:50%; background:linear-gradient(135deg,#06B6D4,#0369A1); border:2px solid rgba(3,105,161,0.12);">
     <img
       src="https://avatars.githubusercontent.com/qdalmadriago-pixel?v=4"
