@@ -1,4 +1,4 @@
-<p align="center" style="font-family:'Poppins','Segoe UI',Tahoma,sans-serif;">
+<p align="center" style="font-family:'Poppins','Segoe UI',Tahoma,sans-serif; margin-top: 40px;">
 
   <!-- Dominant Welcome Message -->
   <span 
@@ -6,7 +6,7 @@
       display: block;
       font-family: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
       font-weight: 900;
-      font-size: 96px; /* Very large text for dominance */
+      font-size: 64px; /* Large size for dominance */
       letter-spacing: 6px;
       color: #012028;
       text-align: center;
@@ -15,7 +15,7 @@
       -webkit-background-clip: text;
       color: transparent;
       text-shadow: 0 4px 8px rgba(3,105,161,0.4);
-      margin: 40px 0;
+      margin-bottom: 20px; /* Adds space below for the GIF */
     ">
     🙌 Welcome to My Profile! 🙌
   </span>
@@ -28,15 +28,10 @@
     style="
       border-radius: 16px; 
       box-shadow: 0 8px 20px rgba(3,105,161,0.12);
-      display: block; 
-      margin: 20px auto;
+      margin-bottom: 20px; /* Adds space below for the avatar */
     "
   />
 
-</p>
-
-
-<p align="center">
   <!-- Avatar with cyan-blue gradient ring and thin border -->
   <span style="display:inline-block; padding:6px; border-radius:50%; background:linear-gradient(135deg,#06B6D4,#0369A1); border:2px solid rgba(3,105,161,0.12);">
     <img
