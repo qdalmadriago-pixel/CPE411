@@ -1,28 +1,49 @@
-<p align="center" style="font-family:'Poppins','Segoe UI',Tahoma,sans-serif; font-weight:800; letter-spacing:1px; color:#0369A1;">
-  Hi, I'm Dave Madriago 👋
-</p>
+<p align="center" style="font-family:'Poppins','Segoe UI',Tahoma,sans-serif;">
 
-<p align="center">
-  <!-- Welcome to My Profile -->
-  <span style="display:inline-block; font-family:'Poppins','Segoe UI',Tahoma,sans-serif; font-weight:900; font-size:32px; letter-spacing:2px; background:linear-gradient(90deg,#06B6D4,#0369A1); -webkit-background-clip:text; color:transparent; animation: fadeIn 3s ease;">
-    🙌 Welcome to My Profile! 🙌
+  <!-- Dominant Welcome Message -->
+  <span 
+    style="
+      display: inline-block;
+      font-family: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
+      font-weight: 900;
+      font-size: 48px;
+      letter-spacing: 4px;
+      color: #012028;
+      text-transform: uppercase;
+      background: linear-gradient(90deg, #06B6D4, #0369A1);
+      -webkit-background-clip: text;
+      color: transparent;
+      text-shadow: 0 2px 4px rgba(3,105,161,0.4);
+      animation: glow 3s ease-in-out infinite, fadeIn 2s ease;
+    ">
+    ✨ Welcome to My Profile! ✨
   </span>
+
   <style>
+    @keyframes glow {
+      0%, 100% {
+        text-shadow: 0 0 8px #06B6D4, 0 0 12px #0369A1, 0 0 16px #06B6D4;
+      }
+      50% {
+        text-shadow: 0 0 12px #06B6D4, 0 0 20px #0369A1, 0 0 24px #06B6D4;
+      }
+    }
     @keyframes fadeIn {
       0% {
         opacity: 0; 
-        transform: translateY(-10px);
+        transform: scale(0.8);
       }
       100% {
         opacity: 1; 
-        transform: translateY(0);
+        transform: scale(1);
       }
     }
   </style>
+
 </p>
 
-<!-- Avatar with cyan-blue gradient ring and thin border -->
 <p align="center">
+  <!-- Avatar with cyan-blue gradient ring and thin border -->
   <span style="display:inline-block; padding:6px; border-radius:50%; background:linear-gradient(135deg,#06B6D4,#0369A1); border:2px solid rgba(3,105,161,0.12);">
     <img
       src="https://avatars.githubusercontent.com/qdalmadriago-pixel?v=4"
